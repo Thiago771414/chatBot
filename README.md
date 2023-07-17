@@ -49,5 +49,4 @@ node bot.js
 ```
 Agora você tem um chatbot básico que responderá com "Bom dia!" sempre que receber o comando /start no Telegram. Você pode personalizar as mensagens e adicionar mais comandos de acordo com suas necessidades. Certifique-se de substituir 'TOKEN_DO_SEU_BOT' pelo token real do seu bot gerado pelo BotFather.
 
-##bot
 ![Imagem](https://github.com/Thiago771414/imagensProjetos/blob/main/slices/mobile/WhatsApp%20Image%202023-07-16%20at%2022.17.18.jpeg)
